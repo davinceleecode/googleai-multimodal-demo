@@ -39,3 +39,7 @@ It showcases Gemini’s **text understanding & generation** using a minimal Pyth
 
 This project demonstrates Gemini’s multimodal capabilities in a simple, interactive way.
 Built for educational purposes and submitted to the Google AI Studio Multimodal Challenge.
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
